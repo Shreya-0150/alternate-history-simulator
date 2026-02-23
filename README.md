@@ -1,7 +1,7 @@
 # alternate-history-simulator
 
 A multi-agent AI system that answers "what if" questions about history using 5 specialized agents plus a coordinator.  
-It runs inside the OpenClaw framework and can be accessed via a Telegram bot or directly from Node.js.
+It runs inside the OpenClaw framework and can be accessed via a Telegram bot or directly from Terminal.
 
 ## Features
 
